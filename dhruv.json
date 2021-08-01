@@ -1,0 +1,52 @@
+{
+	"basics": {
+		"name": "Dhruv Soni",
+		"label": "Student",
+		"picture": "https://drive.google.com/file/d/1usUcAXNE1YkD08cqPuNenX4eGfX_USrh/view?usp=sharing",
+		"email": "2020kucp1077@iiitkota.ac.in",
+		"phone": "7990565439",
+		"summary": "Hi! I am Dhruv Soni. I am a 2nd Year student at IIIT Kota(CSE).",
+		"location": {
+			"address": "S-2 Vinayak Flats, Opposite Kailash Park Society, Akota, Vadodara",
+			"postalCode": "390020",
+			"city": "Vadodara",
+			"countryCode": "India",
+			"region": "Gujarat"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "dhruvsoni0612",
+				"url": "https://www.github.com/<handle>/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Dhruv Soni",
+				"url": "https://www.linkedin.com/in/<username>/"
+			},
+			{
+				"network": "Instagram",
+				"username": "dhruv._.s0ni",
+				"url": "https://instagram.com/<handle>"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-11-30 //Date",
+		"gpa": "9.05",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton", "Cricket", "Table Tennis"]
+	}],
+}
